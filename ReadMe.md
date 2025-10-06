@@ -89,7 +89,6 @@ In your ETL documentation, explicitly state:
 
 4. **Vocabulary Mappings**:
    - How will you map ICD codes to OMOP standard concepts?
-   - What source vocabulary concept IDs will you use?
 
 use  [ATHENA Vocabulary Browser](https://athena.ohdsi.org/) to search for concepts.
 ### ETL Documentation Structure
