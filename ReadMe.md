@@ -1,7 +1,7 @@
 # ETL Assignment
 
 ## Overview
-This exercise involves analyzing A synthetic data hosted on a PostgreSQL database and creating an ETL (Extract, Transform, Load) mapping to the OMOP Common Data Model (CDM). Imagine yourself as a Data Scientist - Have fun!
+This exercise involves analyzing a synthetic data hosted on a PostgreSQL database and creating an ETL (Extract, Transform, Load) mapping to the OMOP Common Data Model (CDM). Imagine yourself as a Data Scientist - Have fun!
 
 ## Part 1: Data Scanning and Analysis
 
