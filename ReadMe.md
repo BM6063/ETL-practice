@@ -58,7 +58,7 @@ Based on the provided WhiteRabbit scan report (`ScanReport.xlsx`) and database e
 
 ### Task 2.1: Create OMOP CDM Mappings
 
-Create an ETL mapping document (`ETL_MAPPING.md`) that details how MIMIC-IV data maps to OMOP CDM tables using Rabbit in a hat (). Focus on:
+Create and generate ETL mapping document (`ETL_MAPPING.md`) that details how MIMIC-IV data maps to OMOP CDM tables using Rabbit in a hat. Focus on:
 
 #### Required Mappings:
 1. **Demographics** 
@@ -134,7 +134,7 @@ Your repository submission must include:
 4. **README.md** - summary of your work and any assumptions made
 
 
-## Part 4: ETL Script Implementation (Optional - Bonus)
+## Part 4: ETL Script Implementation (Optional - Try if you have time)
 
 ### Task 4.1: Generate ETL Scripts
 If you'd like an additional challenge, implement your ETL mapping:
