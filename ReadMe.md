@@ -143,11 +143,11 @@ If you'd like an additional challenge, implement your ETL mapping:
 2. **Generate Scripts**: Create scripts that transform MIMIC-IV data to OMOP CDM format based on your ETL documentation
 3. **Output Format**: Generate CSV files for each OMOP CDM table:
    - `person.csv`
-   - ``death.csv`
+   - `death.csv`
    - `condition_occurrence.csv`
    - `drug_exposure.csv`
    - `procedure_occurrence.csv`
-   - `visit_occurrence.csv` (if applicable)
+
 
 4. **Include**:
    - Source code in a `scripts/` directory
