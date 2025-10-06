@@ -18,7 +18,7 @@ This exercise involves analyzing a synthetic data hosted on a PostgreSQL databas
 NB: Remember to test connection.
 
 3. **Run the Scan**:
-   - Scan all tables in the `cdm_schema`
+   - Scan all tables in the `mimic_schema`
    - Generate a comprehensive scan report
    - Save the scan report as `name.xlsx`
 
