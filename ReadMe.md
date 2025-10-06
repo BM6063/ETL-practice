@@ -120,7 +120,7 @@ Submit your work using Git:
 git add .
 
 # Commit with a descriptive message
-git commit -m "Add MIMIC-IV ETL mapping documentation and scan report - [Your Name]"
+git commit -m "Add ETL mapping documentation and scan report - [Your Name]"
 
 # Push to your branch
 git push origin yourname/id
