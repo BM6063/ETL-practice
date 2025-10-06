@@ -140,7 +140,7 @@ Your repository submission must include:
 If you'd like an additional challenge, implement your ETL mapping:
 
 1. **Choose Your Language**: Python, R, SQL, or any language you're comfortable with
-2. **Generate Scripts**: Create scripts that transform MIMIC-IV data to OMOP CDM format based on your ETL documentation
+2. **Generate Scripts**: Create scripts that transform the data to OMOP CDM format based on your ETL documentation
 3. **Output Format**: Generate CSV files for each OMOP CDM table:
    - `person.csv`
    - `death.csv`
