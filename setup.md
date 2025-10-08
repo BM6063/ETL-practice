@@ -1,7 +1,10 @@
 ### Python and Database Requirements
 `Python 3.9`
+
 `PostgreSQL database`
+
 Required Python libraries (listed in requirements.txt)
+
 run `pip install -r requirements.txt` - run in a virtualenv (recommended)
 
 ### R Requirements
